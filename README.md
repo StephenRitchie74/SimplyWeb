@@ -5,6 +5,6 @@ To install:
 3. Click download anyway if your browser says that it might be dangerous.
 4. Click on the finished download to install.
 
-Note: This app is not a browser like Google Chrome. Some websites and processes will not work. 
+Please Note: This app is not a browser like Google Chrome. Some websites and processes will not work. This app has been verified by Google Play Protect, and it is safe to use. 
 
-Security note: This app has been verified by Google Play Protect, and it is safe to use.
+### AS OF VERSION 1.5.1, THE APP HAS A NEW PACKAGE NAME. You should uninstall 1.5 before installing 1.5.1.
